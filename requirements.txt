@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-aiohttp
-python-dotenv
-mangum
-jinja2
-python-multipart
